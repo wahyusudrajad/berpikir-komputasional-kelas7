@@ -48,7 +48,7 @@ Aplikasi web interaktif ini dirancang khusus untuk mendukung kegiatan belajar me
 
 1. Unduh atau *clone* repository ini:
    ```bash
-   git clone https://github.com/USERNAME_ANDA/berpikir-komputasional-kelas7.git
+   git clone https://github.com/wahyusudrajad/berpikir-komputasional-kelas7.git
 
 2. Buka folder hasil unduhan.
 3. Klik 2x pada file index.html untuk membuanya di browser (Google Chrome, Edge, Mozilla Firefox, dll).
@@ -56,7 +56,6 @@ Aplikasi web interaktif ini dirancang khusus untuk mendukung kegiatan belajar me
 ## 🌐 Link Demo Web Online
 
 Anda dapat mengakses aplikasi pembelajaran ini secara langsung di:
-👉 https://USERNAME_ANDA.github.io/berpikir-komputasional-kelas7/
-(Ganti USERNAME_ANDA dengan nama pengguna GitHub Anda)
+👉 [https://USERNAME_ANDA.github.io/berpikir-komputasional-kelas7/](https://wahyusudrajad.github.io/berpikir-komputasional-kelas7/)
 
 Dibuat untuk mempermudah pembelajaran Informatika SMP Kelas 7.
