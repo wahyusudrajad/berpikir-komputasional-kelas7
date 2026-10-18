@@ -56,6 +56,6 @@ Aplikasi web interaktif ini dirancang khusus untuk mendukung kegiatan belajar me
 ## 🌐 Link Demo Web Online
 
 Anda dapat mengakses aplikasi pembelajaran ini secara langsung di:
-👉 [https://USERNAME_ANDA.github.io/berpikir-komputasional-kelas7/](https://wahyusudrajad.github.io/berpikir-komputasional-kelas7/)
+👉 [https://wahyusudrajad.github.io/berpikir-komputasional-kelas7/](https://wahyusudrajad.github.io/berpikir-komputasional-kelas7/)
 
 Dibuat untuk mempermudah pembelajaran Informatika SMP Kelas 7.
